@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>HackerRank Python Problem Solutions</title>
-</head>
 <body>
   <h1>HackerRank Python Problem Solutions</h1>
   <p>This repository contains my solutions to various Python problems on HackerRank. Each problem is solved using Python programming language.</p>
