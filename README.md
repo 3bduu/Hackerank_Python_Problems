@@ -2,38 +2,6 @@
 <html>
 <head>
   <title>HackerRank Python Problem Solutions</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-    }
-    h1 {
-      color: #333;
-    }
-    h2 {
-      color: #555;
-      margin-bottom: 10px;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-      margin-bottom: 15px;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>HackerRank Python Problem Solutions</h1>
